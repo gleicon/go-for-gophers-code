@@ -1,1 +1,1 @@
-## Source code for Go for Gophers [https://goforgophers.com]
+## Source code for Go for Gophers [](https://goforgophers.com)
